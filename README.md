@@ -1,30 +1,28 @@
-<h1>👋 &nbsp;Hey, I'm Felipe Rocha, a passionate Full Stack Engineer!</h1>
+<h1>👋 &nbsp;Hey, I'm Gustavo Bihre, a passionate Full Stack Engineer!</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/felipe-rocha-034871172"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://instagram.com/byfeliperocha"><img src="https://img.shields.io/badge/-My%20Professional%20IG_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UC8TRfZVb-M_ivbU9yiocTvQ"><img src="https://img.shields.io/badge/-My%20YT%20Channel-D62422?style=flatsquare&labelColor=D62422&logo=youtube&logoColor=white"/></a>
-<a href="mailto:felipemotarocha@gmail.com"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="gustavo-bihre-44bbb8291"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.instagram.com/gustavo_bihre?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><img src="https://img.shields.io/badge/-My%20Professional%20IG_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://gustavobihre.com/"><img src="https://img.shields.io/badge/-Send%20Me%20a%20Message-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-I'm a software engineer focused on full stack development, passionate about building scalable, modern, and well-architected solutions. I’ve worked on high-impact projects in Brazil, the UK, and the US, using technologies like TypeScript, React & React Native, Next.js, Node.js, Docker, AWS, Kafka, Kubernetes, PostgreSQL, microservices, and much more.
+Sou Gustavo, desenvolvedor de 22 anos com 2 anos de experiência na criação de aplicações web e mobile, com foco em JavaScript, React e Node.js. Minha relação com a tecnologia começou ainda na infância, e há dois anos transformei essa paixão em carreira, dedicando-me ao aprendizado contínuo e ao desenvolvimento de soluções modernas, escaláveis e centradas no usuário.
 
-I wrote my first lines of code at age 11, when I wanted to create a private server for a game I loved at the time. After a lot of research, I finally got it online — and the feeling was magical. I realized I could customize anything just by writing code. That moment changed everything for me: I knew I wanted to become a developer.
+Atuo como freelancer e participo de todo o ciclo de desenvolvimento desde o planejamento até a entrega final sempre priorizando alta performance, automação de processos e eficiência. Ao longo da minha trajetória, realizei projetos que geraram resultados reais para diferentes segmentos, como:
 
-Since then, I’ve remained deeply passionate about programming and constantly strive to learn more and become a better professional every day.
+• Restaurante – Desenvolvimento de um site otimizado que aumentou a visibilidade da marca e impulsionou o fluxo de pedidos online.
 
-<h2> 🎓 &nbsp;Lifelong Learner & Educator </h2
+• Terapia – Criação de um site profissional que ampliou o alcance digital e contribuiu para um aumento no número de agendamentos.
 
-One of the things I'm most passionate about is continuous learning and sharing knowledge with others. Since the beginning of my journey, I've been fascinated not only by solving complex problems with code but also by helping others understand and grow in their own paths.
+• Pizzaria – Aplicativo de pedidos rápido e intuitivo, proporcionando maior volume de vendas e redução no tempo de atendimento.
 
-That's why I founded the <strong>[Full Stack Club](https://www.fullstackclub.com.br/)</strong>, a community where I mentor and support over <strong>3,000 aspiring developers</strong>. There, I teach practical skills in technologies like TypeScript, React, Node.js, and more — all with a hands-on, real-world approach focused on building solid careers in software engineering.
+• Barbearia (SaaS) – Sistema completo de agendamento automatizado, reduzindo falhas manuais e gerando uma diminuição de até 40% no tempo de organização interna, além de melhorar a eficiência operacional.
 
-I also run a [YouTube channel](https://www.youtube.com/@dicasparadevs) where I’ve been creating content for over 5 years. My videos have accumulated more than <strong>2.5 million views</strong>, and my React and Node.js courses are among the most watched in Brazil. Through my content, I aim to make high-quality programming education accessible and practical for everyone.
+Busco sempre criar soluções que agreguem valor, otimizem processos e facilitem a rotina dos usuários e dos negócios. Sou movido por desafios, inovação e pelo desejo de contribuir com projetos que causem impacto real.
 
-Teaching helps me grow as much as coding does, and I'm always striving to be a better developer, mentor, and human being.
-
+No meu tempo livre, gosto de me divertir lendo e jogando, atividades que me ajudam a manter o equilíbrio, a criatividade e o foco no dia a dia.
 <h2> 📚 &nbsp;What will you find here?</h2>
 
 This GitHub is more than just a code repository — it's a reflection of my journey, experiences, and commitment to clean, purposeful software development. Whether you're a recruiter, a fellow developer, or someone learning to code, here's what you'll find:
@@ -64,6 +62,4 @@ If you’d like to connect, collaborate, or have any questions, feel free to <a 
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
 ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=apache-kafka)
 
-<h2>🚀 &nbsp;My GitHub Stats</h2>
 
-![Felipe Rocha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipemotarocha&show_icons=true&theme=dracula)
