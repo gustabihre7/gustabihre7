@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Hey, I'm Gustavo Bihre, a passionate Full Stack Engineer!</h1>
+<h1>👋 &nbsp;Olá, I'm Gustavo Bihre, Full Stack Engineer!</h1>
 <p align="center">
 <a href="gustavo-bihre-44bbb8291"><img src="https://img.shields.io/badge/-My%20LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
 <a href="https://www.instagram.com/gustavo_bihre?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="><img src="https://img.shields.io/badge/-My%20Professional%20IG_-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
