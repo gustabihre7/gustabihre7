@@ -32,9 +32,7 @@ This GitHub is more than just a code repository — it's a reflection of my jour
 - High test coverage with automated testing
 - Experiments, technical studies, and real-world best practices
   
-If you’d like to connect, collaborate, or have any questions, feel free to <a href="https://gustavobihre.com/">click here and send me an email</a> — or reach out on <a href="www.linkedin.com/in/
-gustavo-bihre-44bbb8291
-">LinkedIn</a>. I'm always open to good conversations and interesting opportunities.
+If you’d like to connect, collaborate, or have any questions, feel free to <a href="https://gustavobihre.com/">click here and send me an email</a>.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
